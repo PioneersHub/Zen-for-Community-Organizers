@@ -6,16 +6,18 @@ The text below was created for a Python [community talk by Alexander CS Hendorf]
 
 ## Zen for Community Organizers
 
+
 Perfectionism is the enemy of the good.
 Do good.
 
-
-
-Responsibilities are like weights; lift them and grow strong.
+Responsibilities are like weights; 
+lift them and grow strong.
 
 The power of creation lies in the meaning it brings.
-Give your peers to room create.
-Consensus breeds comfort; majority calls bring clarity.
+Give your peers to room create.
+
+Consensus breeds comfort; 
+majority calls bring clarity.
 Multiple paths lead to success.
 
 Trust is the foundation of collaboration.
@@ -23,14 +25,23 @@ Unity in purpose drives collective achievement.
 
 Diversity in ideas enriches the outcome.
 
-Celebrate small victories, for they lead to bigger wins.
-Passion is contagious; spread it generously.
+Celebrate small victories, 
+for they lead to bigger wins.
 
-You might wrap your head around everything,but trained experts excel with experience.
+Passion is contagious; 
+spread it generously.
 
-Be modest about your inexperience, yet bold in your attempts.
+You might wrap your head around everything,
+but trained experts excel with experience.
 
-Balance structure with spontaneity for the best results.
-Delegate wisely, for teamwork makes the dream work.
-Feedback is a gift; accept it with grace.
-<img width="365" alt="image" src="https://github.com/PioneersHub/Zen-for-Community-Organizers/assets/1356401/44d4bc2f-c294-4ee3-a657-4bcf8ae3955e">
+Be modest about your inexperience, 
+yet bold in your attempts.
+
+Balance structure with spontaneity for the best results.
+
+Delegate wisely, 
+for teamwork makes the dream work.
+
+Feedback is a gift; 
+accept it with grace.
+
